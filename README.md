@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🦅 cecco
 
-<!--
-**Cecco-Magno/Cecco-Magno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security researcher & bug bounty hunter**
 
-Here are some ideas to get you started:
+> Precision over noise. Impact over quantity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Focus areas
+
+- **API Security** — BOLA/IDOR, broken object-level authorization
+- **Authentication & Session flaws** — token handling, IMS/OAuth flows
+- **Automation** — custom tooling for cross-account access testing & HAR analysis
+
+## 🛠️ Tooling
+
+- Generic BOLA/IDOR cross-account tester (token × resource-ID matrix)
+- HAR analysis suite — entry summarization, full request/response extraction
+
+*(repos coming soon)*
+
+## 🎯 Programs
+
+- [![Bug Bounty Hunter](https://img.shields.io/badge/bug%20bounty-hunter-%236d4aff)](https://app.intigriti.com) @cecco
+- Adobe Public • Universitätsspital Zürich VDP
+
+## 📫 Contact
+
+- X/Twitter: [@cecco_sec](https://x.com/cecco_sec) *(placeholder — update with real handle)*
+
+---
