@@ -19,7 +19,7 @@
 
 ## 🎯 Programs
 
-- [![Bug Bounty Hunter](https://img.shields.io/badge/bug%20bounty-hunter-%236d4aff)](https://app.intigriti.com) @cecco
+- [![Bug Bounty Hunter](https://img.shields.io/badge/bug%20bounty-hunter-%236d4aff)](https://app.intigriti.com/researcher/profile/cecco) @cecco
 - Adobe Public • Universitätsspital Zürich VDP
 
 ## 📫 Contact
